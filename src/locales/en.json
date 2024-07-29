@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome to your Vue.js App!",
+  "login": "Login",
+  "signup": "Sign Up",
+  "dashboard": "Dashboard",
+  "profile": "Profile"
+}
